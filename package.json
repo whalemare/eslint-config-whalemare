@@ -7,14 +7,14 @@
     "eslint",
     "eslintconfig"
   ],
-  "version": "1.0.5",
+  "version": "1.0.6",
   "homepage": "https://github.com/whalemare/eslint-config-whalemare",
   "bugs": "https://github.com/whalemare/eslint-config-whalemare/issues",
   "repository": "github:whalemare/eslint-config-whalemare",
   "dependencies": {
     "@react-native-community/eslint-config": "3.0.1",
     "@typescript-eslint/eslint-plugin": "5.8.1",
-    "@typescript-eslint/parser": "5.8.1",
+    "@typescript-eslint/parser": "5.9.0",
     "@typescript-eslint/typescript-estree": "5.9.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-i18n": "2.1.0",
