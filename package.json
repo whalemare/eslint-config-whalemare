@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-whalemare",
+  "description": "ESLint configurations",
+  "author": "whalemare",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "version": "0.9.0",
+  "homepage": "https://github.com/whalemare/eslint-config-whalemare",
+  "bugs": "https://github.com/whalemare/eslint-config-whalemare/issues",
+  "repository": "github:whalemare/eslint-config-whalemare",
+  "peerDependencies": {
+    "eslint": ">= 8"
+  },
+  "optionalDependencies": {
+    "eslint-plugin-compat": ">= 3",
+    "eslint-plugin-jest": ">= 25",
+    "eslint-plugin-node": ">=11",
+    "eslint-plugin-react": ">= 7",
+    "eslint-plugin-react-hooks": ">= 4"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
