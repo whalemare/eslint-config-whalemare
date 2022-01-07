@@ -29,7 +29,21 @@
   },
   "peerDependencies": {
     "eslint": ">= 8",
-    "typescript": ">= 4"
+    "typescript": ">= 4",
+    "@react-native-community/eslint-config": ">= 3",
+    "@typescript-eslint/eslint-plugin": ">= 5",
+    "@typescript-eslint/experimental-utils": ">= 5",
+    "@typescript-eslint/parser": ">= 5",
+    "@typescript-eslint/typescript-estree": ">= 5",
+    "eslint-config-prettier": ">= 8",
+    "eslint-plugin-i18n": ">= 2",
+    "eslint-plugin-import": ">= 2",
+    "eslint-plugin-jest": ">= 2",
+    "eslint-plugin-prettier": ">= 4",
+    "eslint-plugin-react": ">= 7",
+    "eslint-plugin-react-hooks": ">= 4",
+    "eslint-plugin-unused-imports": ">= 2",
+    "prettier": ">= 2"
   },
   "publishConfig": {
     "access": "public"
